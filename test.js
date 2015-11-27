@@ -3,7 +3,7 @@
 <script language="javascript">
 function f()
 [if(z.value=""){
-	document.write("lol")
+	document.write("lul")
 }}
 </script>
 </head>
