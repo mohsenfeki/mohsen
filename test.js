@@ -2,7 +2,7 @@
 <head>
 <script language="javascript">
 function f()
-[if(z){
+[if(z.value=""){
 	document.write("lol")
 }}
 </script>
